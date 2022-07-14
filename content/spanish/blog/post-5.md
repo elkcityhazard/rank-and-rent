@@ -1,16 +1,15 @@
 ---
-title: "Cheerful Loving Couple Bakers Drinking Coffee"
-date: 2020-03-14T15:40:24+06:00
-# post thumb
+title: Cheerful Loving Couple Bakers Drinking Coffee
+date: 2020-03-14 09:40:24 Z
 images:
-  - "images/blog/post-5.jpg"
-#author
-author: "John Doe"
-# description
-description: "This is meta description"
-# Taxonomies
-categories: ["newyork city"]
-tags: ["city","photo"]
+- images/blog/post-5.jpg
+author: John Doe
+description: This is meta description
+categories:
+- newyork city
+tags:
+- city
+- photo
 draft: false
 ---
 

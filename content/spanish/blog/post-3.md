@@ -1,16 +1,15 @@
 ---
-title: "Cheerful Loving Couple Bakers Drinking Coffee"
-date: 2020-03-14T15:40:24+06:00
-# post thumb
+title: Cheerful Loving Couple Bakers Drinking Coffee
+date: 2020-03-14 09:40:24 Z
 images:
-  - "images/blog/post-3.jpg"
-#author
-author: "John Doe"
-# description
-description: "This is meta description"
-# Taxonomies
-categories: ["videography"]
-tags: ["video","image"]
+- images/blog/post-3.jpg
+author: John Doe
+description: This is meta description
+categories:
+- videography
+tags:
+- video
+- image
 draft: false
 ---
 

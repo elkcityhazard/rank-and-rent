@@ -1,9 +1,10 @@
 ---
-title : "Payday Loans"
-description : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod"
-icon: "fas fa-money-check-alt"
-draft : false
-date: 2020-03-10T15:40:24+06:00
+title: Payday Loans
+date: 2020-03-10 09:40:24 Z
+description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+  eirmod
+icon: fas fa-money-check-alt
+draft: false
 ---
 
 ## How a Payday Loan Online Works

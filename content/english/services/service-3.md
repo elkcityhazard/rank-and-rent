@@ -1,9 +1,10 @@
 ---
-title : "Student Loans"
-description : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod"
-icon: "fas fa-user-graduate"
-draft : false
-date: 2020-03-12T15:40:24+06:00
+title: Student Loans
+date: 2020-03-12 09:40:24 Z
+description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+  eirmod
+icon: fas fa-user-graduate
+draft: false
 ---
 
 ## How a Payday Loan Online Works

@@ -1,6 +1,6 @@
 ---
-title: "Blog"
-# description
-description: "This is meta description"
+title: Blog
+description: This is meta description
 draft: false
 ---
+

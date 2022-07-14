@@ -1,9 +1,10 @@
 ---
-title : "Personal loans"
-description : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod"
-icon: "fas fa-user"
-draft : false
-date: 2020-03-14T15:40:24+06:00
+title: Personal loans
+date: 2020-03-14 09:40:24 Z
+description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+  eirmod
+icon: fas fa-user
+draft: false
 ---
 
 ## How a Payday Loan Online Works

@@ -1,9 +1,10 @@
 ---
-title : "Home Equity Loans"
-description : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod"
-icon: "fas fa-house-user"
-draft : false
-date: 2020-03-13T15:40:24+06:00
+title: Home Equity Loans
+date: 2020-03-13 09:40:24 Z
+description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+  eirmod
+icon: fas fa-house-user
+draft: false
 ---
 
 ## How a Payday Loan Online Works

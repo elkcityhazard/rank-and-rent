@@ -1,21 +1,19 @@
 ---
-title: "Elements That You Can Use To Create A New Post On This Template."
-date: 2020-03-15T15:40:24+06:00
-# post thumb
+title: Elements That You Can Use To Create A New Post On This Template.
+date: 2020-03-15 09:40:24 Z
 images:
-  - "images/blog/post-4.jpg"
-  - "images/blog/post-5.jpg"
-  - "images/blog/post-3.jpg"
-#author
-author: "John Doe"
-# description
-description: "This is meta description"
-# Taxonomies
-categories: ["photography"]
-tags: ["photo","image"]
+- images/blog/post-4.jpg
+- images/blog/post-5.jpg
+- images/blog/post-3.jpg
+author: John Doe
+description: This is meta description
+categories:
+- photography
+tags:
+- photo
+- image
 draft: false
 ---
-
 
 #### Heading example
 

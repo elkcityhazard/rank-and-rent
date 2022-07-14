@@ -1,6 +1,6 @@
 ---
-title: "Terms & Conditions"
-description: "this is meta description"
+title: Terms & Conditions
+description: this is meta description
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Legal y cumplimiento"
-description: "this is meta description"
+title: Legal y cumplimiento
+description: this is meta description
 draft: false
 ---
 
