@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://elkcityhazard.github.io/rank-and-rent"
 title = "Wallet - Payday Loan Service Hugo Theme"
 theme = "wallet"
 # post pagination
